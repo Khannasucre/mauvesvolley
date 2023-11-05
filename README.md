@@ -1,4 +1,4 @@
 # mauvesvolley
 Repo pour le Mauves Volley 
 
-Mauves VB, Mauves sur Loire. 
+Projet personnel CESI + Communication Mauves VB
